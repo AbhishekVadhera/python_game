@@ -65,6 +65,14 @@ while True:
             break
         elif ans == 'y':
             counter = 0
+        else:
+            print('invalid choice')
         if counter == 4:
             break
         counter += 1
+
+
+
+
+
+
